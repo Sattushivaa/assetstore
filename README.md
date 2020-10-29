@@ -1,7 +1,5 @@
-
 <head>
 <body>
-<title>unbeliavable</title>
 <h1>The Unbeliavable Darkness</h1>
 <p>This is a trial of the game coming soon and it is developed by Satyam Bharti, a student of class 8th studying in JNV(shamli).
 Our aim is only to provide something by which people do their entertainment as all of us dont have many options of entertainment.And specially in this 
